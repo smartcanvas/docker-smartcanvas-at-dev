@@ -1,0 +1,7 @@
+*/temp*
+*/*/temp*
+temp?
+*.md
+!LICENCSE.md
+_buildDocker.sh
+_runDockerImageTest.sh
